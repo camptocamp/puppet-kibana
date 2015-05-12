@@ -1,3 +1,7 @@
+## 2015-05-12 - Release 1.0.3
+
+Don't pin beaker
+
 ## 2015-04-29 - Release 1.0.2
 
 Add user and owner parameters to main class.
