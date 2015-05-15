@@ -66,6 +66,7 @@ class kibana (
     force   => true,
     owner   => $owner,
     group   => $group,
+    mode    => '0644',
     require => Vcsrepo[$git_clone_path],
   }
 
