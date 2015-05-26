@@ -1,6 +1,6 @@
 {
   "name": "camptocamp-kibana",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "author": "Camptocamp",
   "summary": "Puppet Kibana module",
   "license": "Apache-2.0",
